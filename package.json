@@ -1,0 +1,13 @@
+{
+  "name": "newt",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --port 3000 --open",
+    "build": "parcel build *.html *.css *.js --detailed-report"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.7"
+  }
+}
