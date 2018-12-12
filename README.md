@@ -1,4 +1,4 @@
-# newt
+# newtjs
 
 ## Purpose
 
